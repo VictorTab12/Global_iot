@@ -66,3 +66,7 @@ https://youtu.be/gCH9LSxPOFQ
 const char* ssid = "nome_rede_wifi";
 
 const char* password = "senha_wifi";
+
+**LINK GITHUB:**
+
+https://github.com/VictorTab12/Global_iot
