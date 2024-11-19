@@ -39,6 +39,8 @@ Eficiência Energética: Moradores podem entender como estão consumindo energia
 Adoção de Fontes Renováveis: Com dados claros sobre geração e consumo, é possível maximizar o uso de energia solar ou outras fontes renováveis.
 Sustentabilidade: Ao promover a conscientização sobre o consumo energético, o projeto incentiva decisões mais sustentáveis, alinhadas aos esforços globais de transição energética.
 Por fim, o painel implementado no ThingSpeak representa um protótipo do que o projeto final será capaz de realizar. Ele valida a ideia de que o uso de IoT pode simplificar o monitoramento e a gestão energética em residências, contribuindo significativamente para a eficiência energética e a sustentabilidade.
+![image](https://github.com/user-attachments/assets/d5c167bd-8eb4-4bd1-b31e-042d7c8d8a06)
+
 
 **LINK YOUTUBE**:
 
